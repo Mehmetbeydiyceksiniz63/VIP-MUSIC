@@ -1,76 +1,76 @@
 general_1 : "» Kullanıcının mesajını yanıtlayın veya kullanıcı adını/kullanıcı kimliğini sağlayın."
 general_2 : "» Sorgunuz işlenirken bir hata oluştu.\n\nİstisna: <code>{0}</code>"
-general_3: "Bu sohbetin anonim moderatörüsünüz, beni kullanmak için kullanıcı hesabınıza geri dönün."
+general_3: "»Bu sohbetin anonim moderatörüsünüz, beni kullanmak için kullanıcı hesabınıza geri dönün."
 general_4 : "» Video görüşmelerini yönetme izniniz yok.\n\nYönetici önbelleğini /reload yoluyla yeniden yükleyin "
 general_5: "» Bot görüntülü görüşme yayınlamıyor.
 
 tg_1 : "<u><b>{0} İndirici</b></u>\n\n<b>Dosya boyutu:</b> {1}\n<b>Tamamlandı:</b> { 2}\n<b>Yüzde:</b> {3}%\n\n<b>Hız:</b> {4}/s\n<b>Zaman tahmini:</b> {5 } "
-tg_2 : "İndirme başarıyla tamamlandı, dosya işleniyor...\n\n<b>Alınan süre:</b> {0}"
+tg_2 : "»İndirme başarıyla tamamlandı, dosya işleniyor...\n\n<b>Alınan süre:</b> {0}"
 tg_3 : "Telegram'dan medya indirilemedi, lütfen tekrar deneyin..."
 tg_4 : "» Öğe zaten indirildi.”
 tg_5 : "» Öğe zaten indirildi veya iptal edildi.”
 tg_6: "»İndirme iptal edildi.”
 tg_7 : "» İndirme işlemi şu kişi tarafından iptal edildi: {0}"
-tg_8: "İndirme işlemi durdurulamadı."
+tg_8: "»İndirme işlemi durdurulamadı."
 tg_9 : "Çalışan indirme görevi alınamadı..."
 
 call_1 : "» Botun, asistanı sohbetinize davet edebilmesi için <b>Kullanıcıları bağlantı yoluyla davet et</b> iznine ihtiyacı var.
-call_2 : "<u>Grubunuzdaki/kanalınızdaki {0} yardımcısı engellendi.</u>\n\n<b>ID :</b> <code>{1}</code>\n< b>Ad :</b> {2}\n<b>Kullanıcı adı :</b> @{3}\n\nLütfen asistanın engellemesini kaldırın ve tekrar deneyin."
-call_3 : "{0} asistanı görüşmenize davet edilemedi.\n\nNedeni: <code>{1}</code>"
-call_4 : "Lütfen bekleyin...\n\n{0} adlı kişinin asistanı sohbetinize davet ediliyor..."
-call_5 : "Yardımcı {0} başarıyla katıldı.\n\nBaşlatılmaya çalışılıyor..."
+call_2 : "»<u>Grubunuzdaki/kanalınızdaki {0} yardımcısı engellendi.</u>\n\n<b>ID :</b> <code>{1}</code>\n< b>Ad :</b> {2}\n<b>Kullanıcı adı :</b> @{3}\n\nLütfen asistanın engellemesini kaldırın ve tekrar deneyin."
+call_3 : "»{0} asistanı görüşmenize davet edilemedi.\n\nNedeni: <code>{1}</code>"
+call_4 : "»Lütfen bekleyin...\n\n{0} adlı kişinin asistanı sohbetinize davet ediliyor..."
+call_5 : "»Yardımcı {0} başarıyla katıldı.\n\nBaşlatılmaya çalışılıyor..."
 call_6 : "» Akışa geçiş başarısız oldu, lütfen yolu tekrar değiştirmek için /skip tuşunu kullanın."
 call_7 : "» Sıradaki sonraki parça indiriliyor.\n\nLütfen bekleyin...”
-call_8 : "<b>Etkin görüntülü sohbet bulunamadı.</b>\n\nLütfen grubunuzda/kanalınızda bir görüntülü sohbet başlatın ve tekrar deneyin."
-call_9 : "<b>Asistan zaten görüntülü sohbette.</b>\n\nAsistan görüntülü sohbette değilse lütfen <code>/reboot</code> gönderin ve tekrar oynatın."
-call_10 : "<b>Telegram Sunucusu Hatası</b>\n\nTelegram'da dahili sorunlar yaşanıyor, lütfen tekrar deneyin veya grubunuzda/kanalınızda görüntülü sohbeti yeniden başlatın."
+call_8 : "»<b>Etkin görüntülü sohbet bulunamadı.</b>\n\nLütfen grubunuzda/kanalınızda bir görüntülü sohbet başlatın ve tekrar deneyin."
+call_9 : "»<b>Asistan zaten görüntülü sohbette.</b>\n\nAsistan görüntülü sohbette değilse lütfen <code>/reboot</code> gönderin ve tekrar oynatın."
+call_10 : "»<b>Telegram Sunucusu Hatası</b>\n\nTelegram'da dahili sorunlar yaşanıyor, lütfen tekrar deneyin veya grubunuzda/kanalınızda görüntülü sohbeti yeniden başlatın."
 
 auth_1 : "» Grubunuzda yalnızca 25 yetkili kullanıcınız olabilir.
 auth_2 : "»{0} yetkili kullanıcılar listesine eklendi.”
-auth_3 : "{0} zaten yetkili kullanıcılar listesinde."
-auth_4 : "{0} yetkili kullanıcılar listesinden kaldırıldı.”
-auth_5 : "{0} yetkili kullanıcılar listesinde değil."
+auth_3 : "»{0} zaten yetkili kullanıcılar listesinde."
+auth_4 : "»{0} yetkili kullanıcılar listesinden kaldırıldı.”
+auth_5 : "»{0} yetkili kullanıcılar listesinde değil."
 auth_6 : "» Yetkili kullanıcıların listesi alınıyor...”
 auth_7 : "» {0}:\n\n" bölgesindeki yetkili kullanıcıların listesi
-auth_8 : "<b>↬ Ekleyen:</b>"
+auth_8 : "»<b>↬ Ekleyen:</b>"
 
 reload_1 : "» Yönetici önbelleğini yalnızca 3 dakikada bir yenileyebilirsiniz.\n\nLütfen {0} tarihinden sonra deneyin."
 reload_2: "» Yönetici önbelleği başarıyla güncellendi.”
 reload_3: "» Moderatör önbelleği güncellenemedi, botun sohbetinizde moderatör olduğundan emin olun."
 reload_4 : "» Lütfen bekleyin...\n\nSohbetinizi {0} yeniden başlatın."
-reload_5 : "{0} sohbetinizi başarıyla yeniden oynattı.\n\nTekrar oynamaya başlayın..."
+reload_5 : "»{0} sohbetinizi başarıyla yeniden oynattı.\n\nTekrar oynamaya başlayın..."
 
-admin_1: "Yayına devam ettiğinizi hatırlıyor musunuz?”
-admin_2 : "➻ Yayın duraklatıldı 🎄\n│ \n└Yazan: {0} 🥀"
-admin_3: "Yayını durdurduğunuzu hatırlıyor musunuz?"
-admin_4 : "➻ Yayın yeniden başlatıldı 🎄\n│ \n└Yazan: {0} 🥀"
-admin_5 : "➻ Yayın sona erdi/durduruldu 🎄\n│ \n└Yazan: {0} 🥀"
-admin_6 : "➻ Yayın atlandı 🎄\n│ \n└Yazan: {0} 🥀\n\n<b>» Sıraya alınmış klip yok</b> {1}, <b>Ayrılıyorum görüntülü sohbet. </b>"
-admin_7 : "Akış {0} olarak değiştirilirken hata oluştu."
+admin_1: "»Yayına devam ettiğinizi hatırlıyor musunuz?”
+admin_2 : "»➻ Yayın duraklatıldı 🎄\n│ \n└Yazan: {0} 🥀"
+admin_3: "»Yayını durdurduğunuzu hatırlıyor musunuz?"
+admin_4 : "»➻ Yayın yeniden başlatıldı 🎄\n│ \n└Yazan: {0} 🥀"
+admin_5 : "»➻ Yayın sona erdi/durduruldu 🎄\n│ \n└Yazan: {0} 🥀"
+admin_6 : "»➻ Yayın atlandı 🎄\n│ \n└Yazan: {0} 🥀\n\n<b>» Sıraya alınmış klip yok</b> {1}, <b>Ayrılıyorum görüntülü sohbet. </b>"
+admin_7 : "»Akış {0} olarak değiştirilirken hata oluştu."
 admin_8 : "» Lütfen <code>/loop devre dışı</code> aracılığıyla döngüyü devre dışı bırakın ve geçişi yeniden deneyin."
-admin_9: "Lütfen gezinmek için 1, 2, 4 gibi belirli sayıları kullanın..."
-admin_10 : "Seçili bölüme geçmek için en az iki sıraya alınmış bölüm gerekiyor.\n\nSırayı şu yolla kontrol edin: /queue "
+admin_9: "»Lütfen gezinmek için 1, 2, 4 gibi belirli sayıları kullanın..."
+admin_10 : "»Seçili bölüme geçmek için en az iki sıraya alınmış bölüm gerekiyor.\n\nSırayı şu yolla kontrol edin: /queue "
 admin_11 : "» Seçilen klibe gitmek için kuyrukta yeterli klip yok.\n\nLütfen 1 ile {0} arasındaki klipler arasında geçiş yapın"
 admin_12 : "» Belirtilen klibe taşınamadı.\n\nSıradaki kalan klipleri şununla kontrol edin: /queue "
 admin_13 : "» Lütfen yönetici önbelleğini şu yolla yeniden yükleyin: /reload ”
 admin_14 : "» Görüntülü sohbetleri yönetme izniniz yok.\n\nLütfen yönetici önbelleğini şu yolla yeniden yükleyin: /reload "
 admin_15 : "» Karıştırma başarısız oldu.\n\n<b>Sırayı şu yolla kontrol edin:</b> /queue "
 admin_16 : "» Sıra, {0} tarafından karıştırıldı.\n\n<b>Karma kuyruğu şu yolla kontrol edin:</b> /queue "
-admin_17 : "<b>Örnek:</b>\n\n/loop <kod>etkinleştir</code>/<kod>devre dışı bırak</code>\n/loop <kod>10</code>/<kod >9</code>/<code>8</code>/<code>7</code>"
+admin_17 : "»<b>Örnek:</b>\n\n/loop <kod>etkinleştir</code>/<kod>devre dışı bırak</code>\n/loop <kod>10</code>/<kod >9</code>/<code>8</code>/<code>7</code>"
 admin_18 : "» Döngü şu kişi tarafından <code>{0}</code> kez etkinleştirildi: {1}."
 admin_19 : "» Döngü oynatma şu kişi tarafından devre dışı bırakıldı: {0}."
-admin_20 : "<b>Örnek:</b>\n\n/seek veya /seekback [saniye cinsinden süre]"
+admin_20 : "»<b>Örnek:</b>\n\n/seek veya /seekback [saniye cinsinden süre]"
 admin_21: "» Lütfen aramanız için saniyeler içinde sayısal sayılar kullanın."
 admin_22 : "» Canlı video yayınının yerini değiştirmek mümkün değildir."
 admin_23 : "» Aramayı daha kısa bir süre için kontrol etmeye çalışın.\n\n<b>{0}</b>, <b>{1}</b> dakikadan fazla çalıştırıldı."
-admin_24 : "<b>Arıyor...</b>\n\nLütfen bekleyin..."
+admin_24 : "»<b>Arıyor...</b>\n\nLütfen bekleyin..."
 admin_25 : "» Yayın konumu başarıyla değiştirildi.\n\n<b>Süre:</b> {0} dakika\n<b>Gönderen:</b> {1}"
-admin_26: "Konum değiştirilemedi."
+admin_26: "»Konum değiştirilemedi."
 admin_27: "Şu anda yalnızca YouTube akış hızını kontrol etmek mümkün."
 admin_28 : "<b><u>{0} Hız Kontrol Paneli</b></u>\n\nGörüntülü sohbetteki mevcut akışın hızını değiştirmek için aşağıdaki düğmelere tıklayın."
 admin_29: "» Bot zaten normal hızda çalışıyor.
 admin_30: "»Lütfen bekleyin...\n\nBaşka biri yayın hızını değiştirmeye çalışıyor."
-admin_31 : "Hız değiştiriliyor..."
+admin_31 : "»Hız değiştiriliyor..."
 admin_32 : "» Mevcut akışın hızı değiştirilmeye çalışılıyor...\n\n<b>İsteyen:</b> {0}"
 admin_33: "» Geçerli yayının hızı değiştirilemedi."
 admin_34 : "» Mevcut akış hızı {0}x\n\n<b>İsteyen:</b> {1}" olarak değiştirildi
@@ -81,27 +81,27 @@ admin_38: "» Bir olumlu oy eklendi."
 admin_39 : "» Bir olumlu oy kaldırıldı."
 admin_40: "Olumlu oy verildi."
 
-start_1 : "{0} yaşıyor bebeğim.\n\n<b>✫ Oyun zamanı :</b> {1}"
-start_2 : "<b>Merhaba</b> {0}, 🥀\n\n๏ Ben {1}!\n\n➻ Telegram'da harika özelliklere sahip hızlı ve güçlü müzik çalar botu.\n\n<b > <u>Desteklenen platformlar:</b></u> YouTube, Spotify, Resue, Apple Music ve SoundCloud.\n──────────────────\n<b >๏ Birimlerim ve siparişlerim hakkında bilgi almak için Yardım düğmesini tıklayın.</b>"
+start_1 : "»{0} yaşıyor bebeğim.\n\n<b>✫ Oyun zamanı :</b> {1}"
+start_2 : "»<b>Merhaba</b> {0}, 🥀\n\n๏ Ben {1}!\n\n➻ Telegram'da harika özelliklere sahip hızlı ve güçlü müzik çalar botu.\n\n<b > <u>Desteklenen platformlar:</b></u> YouTube, Spotify, Resue, Apple Music ve SoundCloud.\n──────────────────\n<b >๏ Birimlerim ve siparişlerim hakkında bilgi almak için Yardım düğmesini tıklayın.</b>"
 start_3 : "Merhaba {0},\nBen {1}\n\nBeni {2}'ye eklediğiniz için teşekkür ederim, {3} artık bu sohbette şarkı çalabilir."
-start_4 : "🎄 <Gerekli Süper Grup</b> 🎄\n\nLütfen <b>Grubu</b>'unuzu <b>Süper Grup</b>'a dönüştürün ve ardından beni tekrar ekleyin.\n\n< b>Nasıl yapılır? onu bir süper grup yapmak ister misiniz?</b>\n- Grubunuzun sohbet geçmişini tek seferde <b>görünür</b> yapın."
-start_5 : "<b>↝ Kara Listeye Alınmış Sohbet ↜</b>\n\nBu sohbet, {0} veritabanında kara listeye alınmış bir sohbet olarak listelenmiştir.\n<a href={1}>sudo kullanıcısına< bir istekte bulunun /a > Sohbeti kara listeden kaldırmak için veya <a href={2}>Sohbeti Destekle</a>'yi ziyaret edin."
-start_6 : "😲 <b>Klip bilgisi</b> 😲\n\n📌 <b>Başlık:</b> {0}\n\n⏳ <b>Süre:</b> {1} dakika\ n👀 <b>Görüntülemeler:</b> <code>{2}</code>\n⏰ <b>Yayınlanma yeri:</b> {3}\n📎 <b>Kanal :</b> < a href={4}>{5}</a>\n\n<u><b>🥀 Arama, {6}</b></u> tarafından desteklenmektedir"
+start_4 : "»🎄 <Gerekli Süper Grup</b> 🎄\n\nLütfen <b>Grubu</b>'unuzu <b>Süper Grup</b>'a dönüştürün ve ardından beni tekrar ekleyin.\n\n< b>Nasıl yapılır? onu bir süper grup yapmak ister misiniz?</b>\n- Grubunuzun sohbet geçmişini tek seferde <b>görünür</b> yapın."
+start_5 : "»<b>↝ Kara Listeye Alınmış Sohbet ↜</b>\n\nBu sohbet, {0} veritabanında kara listeye alınmış bir sohbet olarak listelenmiştir.\n<a href={1}>sudo kullanıcısına< bir istekte bulunun /a > Sohbeti kara listeden kaldırmak için veya <a href={2}>Sohbeti Destekle</a>'yi ziyaret edin."
+start_6 : "»😲 <b>Klip bilgisi</b> 😲\n\n📌 <b>Başlık:</b> {0}\n\n⏳ <b>Süre:</b> {1} dakika\ n👀 <b>Görüntülemeler:</b> <code>{2}</code>\n⏰ <b>Yayınlanma yeri:</b> {3}\n📎 <b>Kanal :</b> < a href={4}>{5}</a>\n\n<u><b>🥀 Arama, {6}</b></u> tarafından desteklenmektedir"
 
 queue_1 : "» Sıra alınıyor...\n\nLütfen bekleyin...”
 queue_2 : "» Sıra boş."
-queue_3 : "<u>»Sıraya alınan kliplerin listesini kontrol etmek için burayı tıklayın:</u> <a href={0}>buraya</a>"
-queue_4 : "➲ <b>#{0} konumundaki kuyruğa eklendi\n\n‣ Adres:</b> {1}\n<b>‣ Süre:</b> {2} dakika\ n< b>‣ Talep eden:</b>{3}"
-queue_5 : "Sırada yalnızca bir klip var.\n\nListeyi kontrol etmek için daha fazla klip ekleyin."
-queue_6 : "<b>🕚 Süre :</b> Yayın süresi bilinmiyor\n\nSıranın tamamını almak için aşağıdaki düğmeyi tıklayın."
-queue_7 : "\nSıranın tamamını almak için aşağıdaki düğmeye tıklayın."
-queue_8 : "<b>Oyuncu {0</b>\n\n🎄 <b>Şu anda yayınlanıyor:</b> {1}\n\n🔗 <b>Akış türü :</b> { 2 }\n🥀 <b>İsteyen:</b> {3}\n{4}"
+queue_3 : "»<u>»Sıraya alınan kliplerin listesini kontrol etmek için burayı tıklayın:</u> <a href={0}>buraya</a>"
+queue_4 : "»➲ <b>#{0} konumundaki kuyruğa eklendi\n\n‣ Adres:</b> {1}\n<b>‣ Süre:</b> {2} dakika\ n< b>‣ Talep eden:</b>{3}"
+queue_5 : "»Sırada yalnızca bir klip var.\n\nListeyi kontrol etmek için daha fazla klip ekleyin."
+queue_6 : "»<b>🕚 Süre :</b> Yayın süresi bilinmiyor\n\nSıranın tamamını almak için aşağıdaki düğmeyi tıklayın."
+queue_7 : "»\nSıranın tamamını almak için aşağıdaki düğmeye tıklayın."
+queue_8 : "»<b>Oyuncu {0</b>\n\n🎄 <b>Şu anda yayınlanıyor:</b> {1}\n\n🔗 <b>Akış türü :</b> { 2 }\n🥀 <b>İsteyen:</b> {3}\n{4}"
 
-Stream_1 : "➲ <b>Akışa başla |</b>\n\n<b>‣ Başlık :</b> <a href={0}>{1}</a>\n<b>‣ Süre :</b>{2} dakika\n<b>‣ Talep eden:</b>{3}"
-Stream_2 : "➲ <b>Akışını başlat |</b>\n\n<b>‣ Yayın türü :</b> Canlı [bağlantı]\n<b>‣ Talep eden:</b> {0} "
+Stream_1 : "»➲ <b>Akışa başla |</b>\n\n<b>‣ Başlık :</b> <a href={0}>{1}</a>\n<b>‣ Süre :</b>{2} dakika\n<b>‣ Talep eden:</b>{3}"
+Stream_2 : "»➲ <b>Akışını başlat |</b>\n\n<b>‣ Yayın türü :</b> Canlı [bağlantı]\n<b>‣ Talep eden:</b> {0} "
 
-help_1 : "Yardım almak istediğiniz kategoriyi seçin.\n<a href={0}>Destek Sohbeti</a>'nde şikayetiniz hakkında bilgi edinin\n\nTüm komutlar şununla kullanılabilir: <code>/</ kod>"
-help_2: "Özel mesajlarınızda yardım menüsüne ulaşmak için aşağıdaki butona tıklayın."
+help_1 : "»Yardım almak istediğiniz kategoriyi seçin.\n<a href={0}>Destek Sohbeti</a>'nde şikayetiniz hakkında bilgi edinin\n\nTüm komutlar şununla kullanılabilir: <code>/</ kod>"
+help_2: "»Özel mesajlarınızda yardım menüsüne ulaşmak için aşağıdaki butona tıklayın."
 
 lang_1 : "» Lütfen bu grup için varsayılan olarak ayarlamak istediğiniz dili seçin:”
 lang_2: "Dil başarıyla değiştirildi."
@@ -115,15 +115,15 @@ Setting_4 : "» Yetkili kullanıcı bulunamadı."
 Setting_5 : "» Grup: Komutun verildiği gruptaki müziği çalar.\n\n» Kanal: İstediğiniz kanaldaki müziği çalar. Kanal kimliğini /channelplay ile ayarlayın "
 Setting_6 : "» Herkes: Bu grupta bulunan herkes burada müzik çalabilir.\n\n» Yalnızca yöneticiler: Bu grupta yalnızca yöneticiler müzik çalabilir."
 Setting_7 : "» Lütfen kanal kimliğini /channelplay aracılığıyla tanımlayın ”
-setting_8 : "Bu mod etkinleştirildiğinde, moderatör ayrıcalıklarına sahip olmayan kişiler, belirli sayıda oydan sonra moderatör komutlarını kullanabilir."
-Setting_9: "Yönetici komutlarını kullanmak için gereken mevcut oylar: {0}"
-Setting_10 : "Oylama modu devre dışı bırakıldı."
-Setting_11 : "Minimum oy sayısı 2 olabilir. 2'den az olamaz"
-Setting_12 : "En yüksek oy sayısı 15 olabilir. 15'in üzerine ayarlayamazsınız"
+setting_8 : "»Bu mod etkinleştirildiğinde, moderatör ayrıcalıklarına sahip olmayan kişiler, belirli sayıda oydan sonra moderatör komutlarını kullanabilir."
+Setting_9: "»Yönetici komutlarını kullanmak için gereken mevcut oylar: {0}"
+Setting_10 : "»Oylama modu devre dışı bırakıldı."
+Setting_11 : "»Minimum oy sayısı 2 olabilir. 2'den az olamaz"
+Setting_12 : "»En yüksek oy sayısı 15 olabilir. 15'in üzerine ayarlayamazsınız"
 
-set_cb_1 : "Yetkili kullanıcılar paneli alınıyor..."
-set_cb_2: "Mod kartı alınıyor..."
-set_cb_3: "Ayarlar değiştiriliyor..."
+set_cb_1 : "»Yetkili kullanıcılar paneli alınıyor..."
+set_cb_2: "»Mod kartı alınıyor..."
+set_cb_3: "»Ayarlar değiştiriliyor..."
 set_cb_4 : "» Yetkili kullanıcıların listesi alınıyor...”
 set_cb_5 : "» Lütfen bekleyin...”
 
