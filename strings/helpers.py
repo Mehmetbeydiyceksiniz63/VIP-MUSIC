@@ -8,17 +8,16 @@ HELP_1 = """🙄 **<u>🌸𝙰ᴅᴍɪɴ Ƈᴏᴍᴍᴀɴᴅs:</u>**
 /dewam » ☀︎︎❥︎ Ʀᴇsᴜᴍᴇ Ƭʜᴇ Ƥᴀᴜsᴇᴅ Mᴜsɪᴄ.
 /mute » ☀︎︎❥︎ Mᴜᴛᴇ Ƭʜᴇ Ƥʟᴀʏɪɴɢ Mᴜsɪᴄ.
 /unmute » ☀︎︎❥︎ Ʋɴᴍᴜᴛᴇ Ƭʜᴇ Mᴜᴛᴇᴅ Mᴜsɪᴄ.
-/atla » ☀︎︎❥︎ Ƨᴋɪᴘ Ƭʜᴇ Ƈᴜʀʀᴇɴᴛ Ƥʟᴀʏɪɴɢ Mᴜsɪᴄ.
-/stop » ☀︎︎❥︎ Ƨᴛᴏᴘ Ƭʜᴇ Ƥʟᴀʏɪɴɢ Mᴜsɪᴄ.
-/shuffle » ☀︎︎❥︎ Ʀᴀɴᴅᴏᴍʟʏ Ƨʜᴜғғʟᴇs Ƭʜᴇ Ҩᴜᴇᴜᴇᴅ Ƥʟᴀʏʟɪsᴛ.
+/atla » sıradaki şarkıyı atlayın
+/stop » müziği kapat.
+/shuffle : Sıradaki parçaları karıştırır..
 /seek » ☀︎︎❥︎ Ƒᴏʀᴡᴀʀᴅ Ƨᴇᴇᴋ Ƭʜᴇ Mᴜsɪᴄ Ƭᴏ Ƴᴏᴜʀ Ɗᴜʀᴀᴛɪᴏɴ
 /seekback » ☀︎︎❥︎ Ɓᴀᴄᴋᴡᴀʀᴅ Ƨᴇᴇᴋ Ƭʜᴇ Mᴜsɪᴄ Ƭᴏ Ƴᴏᴜʀ Ɗᴜʀᴀᴛɪᴏɴ
 /restart » ☀︎︎❥︎ Ʀᴇsᴛᴀʀᴛ Ɓᴏᴛ Ƒᴏʀ Ƴᴏᴜʀ Ƈʜᴀᴛ .
 
 
 🌸Ƨᴘᴇᴄɪғɪᴄ Ƨᴋɪᴘ:
-/atla » [Ɲᴜᴍʙᴇʀ(Єxᴀᴍᴘʟᴇ: 3)] 
-    -☀︎︎❥︎ Ƨᴋɪᴘs Mᴜsɪᴄ Ƭᴏ ƛ Ƭʜᴇ Ƨᴘᴇᴄɪғɪᴇᴅ Ҩᴜᴇᴜᴇᴅ Ɲᴜᴍʙᴇʀ. Єxᴀᴍᴘʟᴇ: /Ƨᴋɪᴘ 3 Ɯɪʟʟ Ƨᴋɪᴘ Mᴜsɪᴄ Ƭᴏ Ƭʜɪʀᴅ Ҩᴜᴇᴜᴇᴅ Mᴜsɪᴄ ƛɴᴅ Ɯɪʟʟ Ɩɢɴᴏʀᴇ 1 ƛɴᴅ 2 Mᴜsɪᴄ Ɩɴ Ҩᴜᴇᴜᴇ.
+/atla » sıradaki şarkıyı atlayın 
 
 🌸Լᴏᴏᴘ Ƥʟᴀʏ:
 /dongu » [Єɴᴀʙʟᴇ/Ɗɪsᴀʙʟᴇ] Ơʀ [Ɲᴜᴍʙᴇʀs Ɓᴇᴛᴡᴇᴇɴ 1-10] 
@@ -115,7 +114,7 @@ HELP_8 = """🌸**<u>Ƥʟᴀʏ Ƈᴏᴍᴍᴀɴᴅs:</u>**
 **ᴠ** Ƨᴛᴀɴᴅs Ƒᴏʀ 𝖵ɪᴅᴇᴏ Ƥʟᴀʏ.
 Ƒᴏʀᴄᴇ Ƨᴛᴀɴᴅs Ƒᴏʀ Ƒᴏʀᴄᴇ Ƥʟᴀʏ.
 
-/oynat  Ơʀ /voynat  Ơʀ /coynat » ☀︎︎❥︎ Ɓᴏᴛ Ɯɪʟʟ Ƨᴛᴀʀᴛ Ƥʟᴀʏɪɴɢ Ƴᴏᴜʀ Ɠɪᴠᴇɴ Ҩᴜᴇʀʏ Ơɴ ѵᴏɪᴄᴇ Ƈʜᴀᴛ Ơʀ Ƨᴛʀᴇᴀᴍ Լɪᴠᴇ Լɪɴᴋs Ơɴ Ꮙᴏɪᴄᴇ Ƈʜᴀᴛs.
+/oynat  Ơʀ /voynat  Ơʀ /coynat » Video sohbetinde istenilen parçayı çalmaya başlar..
 
 /playforce  ᴏʀ /vplayforce  ᴏʀ /cplayforce » ☀︎︎❥︎  Ƒᴏʀᴄᴇ Ƥʟᴀʏ Ƨᴛᴏᴘs Ƭʜᴇ Ƈᴜʀʀᴇɴᴛ Ƥʟᴀʏɪɴɢ Ƭʀᴀᴄᴋ Ơɴ Ꮙᴏɪᴄᴇ Ƈʜᴀᴛ ƛɴᴅ Ƨᴛᴀʀᴛs Ƥʟᴀʏɪɴɢ Ƭʜᴇ Ƨᴇᴀʀᴄʜᴇᴅ Ƭʀᴀᴄᴋ Ɩɴsᴛᴀɴᴛʟʏ Ɯɪᴛʜᴏᴜᴛ Ɗɪsᴛᴜʀʙɪɴɢ/Ƈʟᴇᴀʀɪɴɢ Ҩᴜᴇᴜᴇ.
 
@@ -184,27 +183,27 @@ HELP_12 = """🤬 **<u>ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ</u>** [ᴏɴʟʏ ғᴏʀ s�
 
 HELP_13 = """😻 **<u>ᴍᴏʀᴇ ᴄᴜᴛᴇ ғᴇᴀᴛᴜʀᴇs 😻</u>** 
 
-/tagall , /utag , /ftag » ᴛᴀɢ ᴀʟʟ ᴍᴇᴍʙᴇʀs ᴏɴᴇ ʙʏ ᴏɴᴇ ғᴏʀ ᴠᴄ.
+/tagall , /utag , /ftag » üyeleri etiketleme komutları.
 
-/vctag , /stopvctag » sᴛᴀʀᴛ ᴛᴀɢɢɪɴɢ ғᴏʀ ᴠᴄ ᴏɴᴇ ʙʏ ᴏɴᴇ.
+/vctag , /stopvctag » etiektlemeyi durdur.
 
 /bin [your cc bins no.] » ᴄʜᴇᴄᴋ ʙɪɴ ᴀᴄᴛɪᴠᴇ ᴏʀ ɴᴏᴛ.
 
 /rapi » ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʙᴏᴛ ʀᴇᴘᴏ.
 
-/kurucu » ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛ ᴏᴡɴᴇʀ.
+/kurucu » kurucuyu gösterir.
 
 ◈ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴄᴏᴍᴍɪɴɢ sᴏᴏɴ ◈ 
 
-☆..............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/hissizmehmet)..............☆"""
+☆..............𝙱𝚈 » [destek](https://t.me/hissizmehmet)..............☆"""
 
 
 HELP_14 = """
 <b><u>sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅ</b></u>
 
-/bul [sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ] : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ ɪɴ ᴍᴘ3 ᴏʀ ᴍᴘ4 ғᴏʀᴍᴀᴛs.
+/bul [sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ] :istediğiniz şarkıyı indirmek.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/hissizmehmet)............☆
+☆............𝙱𝚈 » [destek](https://t.me/hissizmehmet)............☆
 """
 
 HELP_15 = """
@@ -223,16 +222,16 @@ HELP_15 = """
 <b><u>sʜᴜғғʟᴇ ᴏ̨ᴜᴇᴜᴇ :</b></u>
 
 /shuffle : sʜᴜғғʟᴇ's ᴛʜᴇ ᴏ̨ᴜᴇᴜᴇ.
-/queue : sʜᴏᴡs ᴛʜᴇ sʜᴜғғʟᴇᴅ ᴏ̨ᴜᴇᴜᴇ.
+/queue : Karıştırılmış sırayı gösterir..
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/hissizmehmet)............☆
+☆............𝙱𝚈 » [destek](https://t.me/hissizmehmet)............☆
 """
 
 HELP_16 = """
 <b><u>Aᴄᴛɪᴏɴ :</b></u>
 » ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ Bᴀɴs & Mᴜᴛᴇ :
 
- ❍ /kickme: kicks the user who issued the command
+ ❍ /kickme: kendinizi gruptan atın
 
 Admins only:
  ❍ /ban <userhandle>: bans a user. (via handle, or reply)
