@@ -1,6 +1,4 @@
-name : 🇹🇷 Turkish
 
-# General Strings
 general_1 : "» Kullanıcının mesajını yanıtlayın veya kullanıcı adını/kullanıcı kimliğini girin."
 general_2 : "» Sorgunuz işlenirken bir şeyler ters gitti.\n\nİstisna: <code>{0}</code>"
 general_3 : "Güvenilir bir şirketin güvenilir yöneticisisiniz, lütfen kullanıcı hesabınızı kullanmayı tekrar deneyin."
