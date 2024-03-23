@@ -89,7 +89,7 @@ start_1 : "{0} da hayatta.\n\n<b>✫ Çalışma Süresi :</b> {1}"
 start_2 : "<b>Merhaba</b> {0}, 🥀\n\n๏ Bu {1} !\n\n➻ Harika web sitelerine sahip hızlı ve güçlü bir Telegram müzik çalar botu.\n\ n< b><u>Desteklenen platformlar:</b></u> YouTube, Spotify, Reso, Apple Music ve SoundCloud. n<b>๏ Modüllerim ve görevlerim hakkında bilgi için Yardım düğmesini tıklayın.</b>"
 start_3 : "Merhaba {0},\nBurası {1}\n\nBeni {2} grubuna eklediğiniz için teşekkürler, {3} artık takip edebilir ve videodaki şarkıyı çalabilirsiniz."
 start_4 : "🎄 <b>Süper grup gerekli</b> 🎄\n\nLütfen <b>grubu</b>'nuzu <b>süper grup</b> olarak değiştirin ve sonra beni tekrar ekleyin.\ n\n<b> Süper grup nasıl oluşturulur?</b>\n- Grup sohbet geçmişinizi bir kez <b>görünür</b> yapın.
-start_5 : "<b>↝ Kara Listeye Alınmış Sohbet ↜</b>\n\nBu sohbet, {0} veritabanında kara listeye alındı.\nBaşka bir <a href={1}>sözde kullanıcının web sitesini</a> isteklerini ziyaret etmelisiniz. veya Destek Sohbeti'ne gidin."
+start_7 : "<b>↝ Kara Listeye Alınmış Sohbet ↜</b>\n\nBu sohbet, {0} veritabanında kara listeye alındı.\nBaşka bir <a href={1}>sözde kullanıcının web sitesini</a> isteklerini ziyaret etmelisiniz. veya Destek Sohbeti'ne gidin."
 start_6 : "😲 <b>Parça Bilgisi</b> 😲\n\n📌 <b>Başlık:</b> {0}\n\n⏳ <b>Süre :</b> {1} dakika\ n👀 <b>Görüntülendi:</b> <code>{2}</code>\n⏰ <b>Yayınlanma Zamanı:</b> {3}\n📎 <b>Kanal :</b > < a href={4}>{5}</a>\n\n<u><b>🥀 Arama desteklenmektedir {6}</b></u>"
 
 help_1 : "Yardım almak istediğiniz destek kategorisini seçin. Askıya aldığınız kişiye sorun <a href={0}>Destek Sohbeti</a>\n\n<code>/</code>'in yapabileceği tüm görevlerde kullanılır."
