@@ -166,13 +166,14 @@ str_3 : "YouTube canlı akışı oynatılamadı, canlı format bulunamadı."
 ping_1 : "Ping yapılıyor: {0}..."
 ping_2 : "🏓 Pong: <code>{0}milisaniye</code>\n\n<b><u>{1} Sistem İstatistikleri:</u></b>\n\n↬ Çalışma Süresi: {2 }\n↬ RAM: {3}\n↬ CPU: {4}\n↬ Disk: {5}\n↬ pi-tg-college: <code>{6}milisaniye</code>"
 
-queue_1 : "» Ǫᴜᴇᴜᴇ aranıyor...\n\nLütfen bekleyin..."
-queue_2 : "» Ǫᴜᴇᴜᴇ boş."kuyruk_3 : "<u>» Savaşçıların listesini kontrol etmek için lütfen buraya tıklayın:</u> <a href={0}>buraya</a>"
-queue_4 : "➲ <b>{0} numaralı sıraya eklendi\n\n‣ Başlık :</b> {1}\n<b>‣ Aralık :</b> {2} dakika\n<b> ‣ Yalnızca mantıksız :</b> {3}”
-queue_5 : "Çalma listesinde sıraya alınmış yalnızca bir şarkı var.\n\nListeyi kontrol etmek için başka bir şarkı ekleyin."
-queue_6 : "<b>🕚 Aralık :</b> Bilinmeyen Kategori Süresi\n\nTam kuyruk listesini bulmak için aşağıdaki düğmeyi tıklayın."
-queue_7 : "\nTam kuyruk listesini bulmak için aşağıdaki düğmeye tıklayın."
-queue_8 : "<b>{0} Oyuncu</b>\n\n🎄 <b>Yayın:</b> {1}\n\n🔗 <b>Yayın Türü :</b> {2}\ n🥀 <b>Sebepsiz yere:</b> {3}\n{4}"
+queue_1 : "» Ǫᴜᴇᴜᴇ ਲੱਭ ਰਿਹਾ ਹੈ...\n\nਕਿਰਪਾ ਕਰਕੇ ਇੰਤਜ਼ਾਰ ਕਰੋ..."
+queue_2 : "» Ǫᴜᴇᴜᴇ ਖਾਲੀ ਹੈ."
+queue_3 : "<u>» ਕਿਰਪਾ ਕਰਕੇ ਯੋਧਾਂ ਦੀ ਸੂਚੀ ਜਾਂਚਣ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ :</u> <a href={0}>ਇੱਥੇ</a>"
+queue_4 : "➲ <b>ਕਤਾਰ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ #{0}\n\n‣ ਸਿਰਲੇਖ :</b> {1}\n<b>‣ ਅੰਤਰਾਲ :</b> {2} ਮਿੰਟ\n<b>‣ ਬੇਨਕਾਰਨ ਕੇਵਲ :</b> {3}"
+queue_5 : "ਇੱਥੇ ਪਲੇਅਲਿਸਟ ਵਿੱਚ ਸਿਰਫ ਇੱਕ ਕਤਾਰ ਵਾਲਾ ਗੀਤ ਹੈ.\n\nਇੱਕ ਹੋਰ ਗੀਤ ਸ਼ਾਮਲ ਕਰੋ ਸੂਚੀ ਜਾਂਚਣ ਲਈ."
+queue_6 : "<b>🕚 ਅੰਤਰਾਲ :</b> ਅਣਜਾਣ ਸ਼੍ਰੇਣੀ ਦੀ ਅਵਧੀ\n\nਪੂਰੀ ਕਤਾਰ ਦੀ ਸੂਚੀ ਲੱਭਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੇ ਬਟਨ 'ਤੇ ਕਲਿਕ ਕਰੋ."
+queue_7 : "\nਪੂਰੀ ਕਤਾਰ ਦੀ ਸੂਚੀ ਲੱਭਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੇ ਬਟਨ 'ਤੇ ਕਲਿਕ ਕਰੋ."
+queue_8 : "<b>{0} ਪਲੇਅਰ</b>\n\n🎄 <b>ਸਟ੍ਰੀਮਿੰਗ :</b> {1}\n\n🔗 <b>ਸਟ੍ਰੀਮ ਕਿਸਮ :</b> {2}\n🥀 <b>ਬੇਨਕਾਰਨ ਕੇਵਲ :</b> {3}\n{4}"
 
 Stream_1 : "➲ <b>Yayın Başlatıldı |</b>\n\n<b>‣ Başlık :</b> <a href={0}>{1}</a>\n<b>‣ Süre :</b> {2} dakika\n<b>‣ Yalnızca işe yaramaz :</b> {3}"
 Stream_2 : "➲ <b>Yayın Başlatıldı |</b>\n\n<b>‣ Yayın Türü :</b> Canlı Yayın [URL]\n<b>‣ Yalnızca Geçersiz :</b> {0} "
