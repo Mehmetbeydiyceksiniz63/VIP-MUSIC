@@ -113,21 +113,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/musickss-03-12"
+    "START_IMG_URL", "https://telegra.ph/geHan%C4%B1m-03-19"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/musickss-03-12"
+    "PING_IMG_URL", "https://telegra.ph/geHan%C4%B1m-03-19"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/musickss-03-12"
-STATS_IMG_URL = "https://te.legra.ph/musickss-03-12"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/musickss-03-12"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/musickss-03-12"
-STREAM_IMG_URL = "https://te.legra.ph/musickss-03-12"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/musickss-03-12"
-YOUTUBE_IMG_URL = "https://te.legra.ph/musickss-03-12"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/musickss-03-12"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/musickss-03-12"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/musickss-03-12"
+PLAYLIST_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+STATS_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+STREAM_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+YOUTUBE_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/geHan%C4%B1m-03-19"
 
 
 def time_to_seconds(time):
