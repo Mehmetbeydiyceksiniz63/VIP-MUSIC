@@ -183,9 +183,6 @@ HELP_12 = """🤬 **<u>ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ</u>** [ᴏɴʟʏ ғᴏʀ s�
 
 HELP_13 = """😻 **<u>ᴍᴏʀᴇ ᴄᴜᴛᴇ ғᴇᴀᴛᴜʀᴇs 😻</u>** 
 
-/tagall , /utag , /ftag » üyeleri etiketleme komutları.
-
-/vctag , /stopvctag » etiektlemeyi durdur.
 
 /bin [your cc bins no.] » ᴄʜᴇᴄᴋ ʙɪɴ ᴀᴄᴛɪᴠᴇ ᴏʀ ɴᴏᴛ.
 
